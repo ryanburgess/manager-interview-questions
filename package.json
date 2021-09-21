@@ -1,0 +1,30 @@
+{
+  "title": "manager-interview-questions",
+  "version": "0.0.0",
+  "description": "A list of manager interview questions",
+  "main": "add.js",
+  "scripts": {
+    "build": "node build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanburgess/manager-interview-questions.git"
+  },
+  "author": "Ryan Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanburgess/manager-interview-questions/issues"
+  },
+  "homepage": "https://github.com/ryanburgess/manager-interview-questions#readme",
+  "dependencies": {
+    "country-list": "^2.1.0",
+    "ical-generator": "^0.2.10",
+    "prompt": "^1.2.0"
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "node build"
+    }
+  },
+  "devDependencies": {}
+}
