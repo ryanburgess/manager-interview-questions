@@ -34,6 +34,9 @@
 
 ## Technical
  * Tell me about a technical or architectural change you led. Why was it important to the business? What tradeoffs did you have to make?
+ * How will you help influence your team to make technical architectural changes?
+
+
 
 ## Contributing 
 1. Fork it
