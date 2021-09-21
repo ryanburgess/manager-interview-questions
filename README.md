@@ -31,10 +31,12 @@
  * How do you like to work with product managers and designers?
  * How would you approach a product manager if you don’t feel the vision or direction is the right option for the company?
  * How will you help influence your team to make technical architectural changes?
+ * How do you approach a stakeholder or partner about a direction you disagree with?
 
 ## Technical
  * Tell me about a technical or architectural change you led. Why was it important to the business? What tradeoffs did you have to make?
  * How will you help influence your team to make technical architectural changes?
+ * When is the right time to migrate to a new technology or codebase?
 
 
 

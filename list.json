@@ -90,5 +90,13 @@
     {
         "question": "How will you help influence your team to make technical architectural changes?",
         "cat": "technical"
+    },
+    {
+        "question": "When is the right time to migrate to a new technology or codebase?",
+        "cat": "technical"
+    },
+    {
+        "question": "How do you approach a stakeholder or partner about a direction you disagree with?",
+        "cat": "partnerships"
     }
 ]
